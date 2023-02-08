@@ -1,0 +1,70 @@
+.boss{
+    border: 1px dotted gray;
+    width: 630px;
+    height: 300px;
+    margin: auto;
+    position: relative;
+    color: gray;
+}
+.bossp{
+    position: absolute;
+    bottom: 0;
+    left: 10;
+}
+#smallbox p{
+    float: right;
+    margin-top: 125px;
+    margin-right: 10px;
+}
+#smallbox span{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+#smallbox{
+    background-color: beige;
+    border: 1px dotted gray;
+    width: 180px;
+    height: 150px;
+    margin: 13px;
+    float: left;
+    color: gray;
+}
+.box2{
+    position: relative ;
+    left: 50px;
+    top: 50px;
+}
+.box22{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.infobox{
+    border: 1px solid blanchedalmond;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    width: 530px;
+    height: 250px;
+    margin: auto;
+    position: relative;
+}
+.infobox p{
+    font-size: 20px;
+    line-height: 25px;
+}
+img{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin: 35px;
+}
+.info{
+    margin-top: 50px;
+}
